@@ -1,7 +1,7 @@
 # Image Crop Tool
 * Native PHP (Backend Support for Image Handling)
 * JS (Javascript Engine)
-* CSS (For the UI / UX
+* CSS (For the UI / UX)
 * Ajax (XMLHTTPRequests)
 
 ### Origins
