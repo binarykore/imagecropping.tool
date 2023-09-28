@@ -8,4 +8,4 @@
 * Originally written by Quick Programming: https://www.youtube.com/channel/UCItTNvcjpPzzMi92VRq3zNw
 
 ### Copyright since ( 2021 )
-( C ) - [BinaryKorra](https://github.com/binarykorra), 09225205353
+( C ) - [BinaryKore](https://github.com/binarykore), 09225205353
